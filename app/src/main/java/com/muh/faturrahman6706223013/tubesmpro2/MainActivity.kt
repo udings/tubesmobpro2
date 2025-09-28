@@ -42,6 +42,6 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 @Composable
 fun GreetingPreview() {
     Tubesmpro2Theme {
-        Greeting("Ghina")
+        Greeting("Ghina Fadiyah Hr")
     }
 }
